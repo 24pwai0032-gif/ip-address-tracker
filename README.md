@@ -44,7 +44,6 @@ It allows users to validate IPs, perform lookups, and fetch geolocation details 
   &nbsp;&nbsp;&nbsp;
   <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" alt="IntelliJ IDEA" width="60" height="60"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/XAMPP_logo.svg" alt="XAMPP" width="70" height="60"/>
 </p>
 
 ---
