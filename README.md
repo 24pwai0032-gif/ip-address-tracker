@@ -40,8 +40,11 @@ It allows users to validate IPs, perform lookups, and fetch geolocation details 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="70" height="70"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" alt="IntelliJ IDEA" width="60" height="60"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/100/000000/mysql-workbench.png" alt="MySQL Workbench" width="60" height="60"/>
 </p>
-
 
 ---
 
