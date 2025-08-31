@@ -34,13 +34,14 @@ It allows users to validate IPs, perform lookups, and fetch geolocation details 
 - Export options directly from GUI  
 
 ---
-
+  
 ## 💻 Languages & Tools  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="50" height="50" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/swing.png" width="50" height="50" alt="Java Swing"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="70" height="70"/>
 </p>
+
 
 ---
 
