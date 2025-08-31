@@ -35,6 +35,15 @@ It allows users to validate IPs, perform lookups, and fetch geolocation details 
 
 ---
 
+## 💻 Languages & Tools  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="50" height="50" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/000000/swing.png" width="50" height="50" alt="Java Swing"/>
+</p>
+
+---
+
 ## 🛠️ Tech Stack  
 - **Programming Language:** Java (Swing/JavaFX for GUI)  
 - **Database:** MySQL (via JDBC)  
